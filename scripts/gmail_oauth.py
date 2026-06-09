@@ -7,7 +7,7 @@ This script:
 2) captures OAuth code on localhost redirect,
 3) exchanges code for tokens,
 4) prints refresh token,
-5) writes GOOGLE_REFRESH_TOKEN into .env.
+5) writes GOOGLE_REFRESH_TOKEN into  .env.
 """
 
 from __future__ import annotations
