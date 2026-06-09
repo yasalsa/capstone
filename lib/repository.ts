@@ -6,7 +6,7 @@ import type {
   IntakeStats,
   QuarantineRecord
 } from "@/lib/types";
-
+ 
 function toInt(value: string | number): number {
   if (typeof value === "number") {
     return value;
