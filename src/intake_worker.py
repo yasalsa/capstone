@@ -4,7 +4,7 @@ Dual-mode Gmail intake worker.
 
 Modes:
 - Gmail API (`GMAIL_MODE=gmail_api`) - preferred.
-- IMAP (`GMAIL_MODE=imap`) - fallback.
+- IMAP (`GMAIL_MODE=imap`) - fallback. 
 """
 
 from __future__ import annotations
